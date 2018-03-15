@@ -1,3 +1,4 @@
+import requests
 import datetime
 from time import sleep
 import token
